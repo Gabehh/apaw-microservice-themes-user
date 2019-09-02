@@ -11,8 +11,7 @@
 [![Build Status](https://travis-ci.org/miw-upm/apaw-microservice-themes-user.svg?branch=develop)](https://travis-ci.org/miw-upm/apaw-microservice-themes-user)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3Aapaw-microservice-themes-user&metric=alert_status)](https://sonarcloud.io/dashboard?id=es.upm.miw%3Aapaw-microservice-themes-user)
 [![BCH compliance](https://bettercodehub.com/edge/badge/miw-upm/apaw-microservice-themes-user?branch=develop)](https://bettercodehub.com/)
-[![Heroku](https://heroku-badge.herokuapp.com/?app=apaw-microservice-themes-user&root=swagger-ui.html)](https://apaw-microservice-themes-user.herokuapp.com/swagger-ui.html)
-
+[![Heroku broken](https://apaw-microservice-themes-user.herokuapp.com/system/version-badge)](https://apaw-microservice-themes-user.herokuapp.com/swagger-ui.html)
 ### Tecnologías necesarias
 * Java
 * Maven
@@ -23,6 +22,7 @@
 * Spring-boot
 * MongoDB
 * Heroku
+* OpenAPI
 
 ### Clonar en repositorio en tu equipo mediante consola:
 1. Situarse en una carpeta raíz donde se encuentran los proyectos, mediante la consola:  
